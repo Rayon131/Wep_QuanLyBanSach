@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\migrations\\20241114025812_bookstore1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241114025812_bookstore1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\phieunhapct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\phieunhapct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\repositories\\ngonngurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\ngonngurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\services\\chitietdonhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\chitietdonhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\services\\ichitietdonhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\services\\ichitietdonhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\repositories\\chitietdonhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\chitietdonhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\repositories\\ichitietdonhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\repositories\\ichitietdonhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A123358D-62A0-41CA-A14B-CB42AA5AF56F}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A123358D-62A0-41CA-A14B-CB42AA5AF56F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A123358D-62A0-41CA-A14B-CB42AA5AF56F}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A123358D-62A0-41CA-A14B-CB42AA5AF56F}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\wep_qlbansach\\appdata\\migrations\\20241114015853_bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57397B2C-538D-4DEE-8E52-0C37E7FF6C59}|AppData\\AppData.csproj|solutionrelative:appdata\\migrations\\20241114015853_bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241114025812_Bookstore1.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Migrations\\20241114025812_Bookstore1.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241114025812_Bookstore1.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Migrations\\20241114025812_Bookstore1.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241114025812_Bookstore1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:58:13.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhieuNhapCT.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\PhieuNhapCT.cs",
+              "RelativeDocumentMoniker": "AppData\\PhieuNhapCT.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\PhieuNhapCT.cs",
+              "RelativeToolTip": "AppData\\PhieuNhapCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:58:29.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "AppData\\PhieuNhap.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\PhieuNhap.cs",
+              "RelativeToolTip": "AppData\\PhieuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:58:06.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhaXuatBan.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "AppData\\NhaXuatBan.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\NhaXuatBan.cs",
+              "RelativeToolTip": "AppData\\NhaXuatBan.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:57:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbConText.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\MyDbConText.cs",
+              "RelativeDocumentMoniker": "AppData\\MyDbConText.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\MyDbConText.cs",
+              "RelativeToolTip": "AppData\\MyDbConText.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA8wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:50:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241114015853_Bookstore.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Migrations\\20241114015853_Bookstore.cs",
+              "RelativeDocumentMoniker": "AppData\\Migrations\\20241114015853_Bookstore.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Migrations\\20241114015853_Bookstore.cs",
+              "RelativeToolTip": "AppData\\Migrations\\20241114015853_Bookstore.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAuwNMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:58:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Sach.cs",
+              "RelativeDocumentMoniker": "AppData\\Sach.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Sach.cs",
+              "RelativeToolTip": "AppData\\Sach.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:57:07.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "AppData\\ChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\ChiTietDonHang.cs",
+              "RelativeToolTip": "AppData\\ChiTietDonHang.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:56:57.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NgonNguRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\NgonNguRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\NgonNguRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\NgonNguRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\NgonNguRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:54:31.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:54:09.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IChiTietDonHangService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Services\\IChiTietDonHangService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\IChiTietDonHangService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Services\\IChiTietDonHangService.cs",
+              "RelativeToolTip": "AppData\\Services\\IChiTietDonHangService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:53:21.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChiTietDonHangService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Services\\ChiTietDonHangService.cs",
+              "RelativeDocumentMoniker": "AppData\\Services\\ChiTietDonHangService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Services\\ChiTietDonHangService.cs",
+              "RelativeToolTip": "AppData\\Services\\ChiTietDonHangService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:52:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IChiTietDonHangRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\IChiTietDonHangRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\IChiTietDonHangRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\IChiTietDonHangRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\IChiTietDonHangRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:51:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietDonHangRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\ChiTietDonHangRepository.cs",
+              "RelativeDocumentMoniker": "AppData\\Repositories\\ChiTietDonHangRepository.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppData\\Repositories\\ChiTietDonHangRepository.cs",
+              "RelativeToolTip": "AppData\\Repositories\\ChiTietDonHangRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:50:55.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppAPI\\appsettings.json",
+              "RelativeToolTip": "AppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T01:50:02.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\Wep_QlBanSach\\AppAPI\\Program.cs",
+              "RelativeToolTip": "AppAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:49:17.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
